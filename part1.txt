@@ -1,0 +1,6 @@
+Extract Transform Load (ETL) Paradigm
+ETL is a framework for processing data and delivering it to an end user, who wants to consume data
+in the form of business metrics ie) monthly sales, inventory forecasts, profit per user. Its important
+because it provides a form of organizing a process, similar to an oil rig & pipeline, data needs to be
+1) extracted 2) transformed-purified and cleaned if messy 3) loaded into trucks or tankers for future
+consumers.
